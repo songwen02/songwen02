@@ -1,5 +1,3 @@
-### Hi 👋
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwen02&show_icons=true&theme=highcontrast)
 
@@ -14,4 +12,4 @@
 - ⚡ 有趣的事实: 我喜欢收集各种编程语言的贴纸并以它们为灵感创作设计/做菜/书法/电影/音乐..。
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songwen02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
