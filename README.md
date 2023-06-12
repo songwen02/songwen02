@@ -4,10 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwen02&show_icons=true&theme=highcontrast)
 
 
-**songwen02/songwen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 工作:web前端工程师(某作坊) 
 - 🌱 我目前正在学习: Vue3.3,React18,C#,.net core 7框架,Docker部署前端工程等前端工程化周边技术
 - 👯 我正在寻求合作: 如果您有任何关于前端开发或Web设计的项目，我都很乐意参与并为之贡献我的能力。
