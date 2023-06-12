@@ -1,7 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songwen02&show_icons=true&theme=highcontrast)
-
-
 - 🔭 工作:web前端工程师(某作坊) 
 - 🌱 我目前正在学习: Vue3.3,React18,C#,.net core 7框架,Docker部署前端工程等前端工程化周边技术
 - 👯 我正在寻求合作: 如果您有任何关于前端开发或Web设计的项目，我都很乐意参与并为之贡献我的能力。
@@ -11,5 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ 有趣的事实: 我喜欢收集各种编程语言的贴纸并以它们为灵感创作设计/做菜/书法/电影/音乐..。
 
+- 📚 最近看的书推荐: 《JavaScript高级程序设计》 《Vuejs设计与实现》 《图解HTTP》 《三体》
+- ✨ 最近对C# .NetcoreMVC挺感兴趣!!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
