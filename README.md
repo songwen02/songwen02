@@ -7,6 +7,7 @@
 - 📫 如何联系我: 您可以通过我的个人网站 https://songwen02.github.io/ 或者发送邮件至songwen002@gmail.com与我联系。
 - 😄 Pronouns: ...
 - ⚡ 有趣的事实: 我喜欢收集各种编程语言的贴纸并以它们为灵感创作设计/做菜/书法/电影/音乐..。
+- 🕹️ Mini UI : https://songwen02.github.io/mini-el/
 
 - 📚 最近看的书推荐: 《JavaScript高级程序设计》 《Vuejs设计与实现》 《图解HTTP》 《三体》
 - ✨ 最近对C# .NetcoreMVC挺感兴趣!!!
