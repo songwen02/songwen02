@@ -4,6 +4,6 @@
 - 😄 Pronouns: ...
 - ⚡ 有趣的事实: 我喜欢收集各种编程语言的贴纸并以它们为灵感创作设计/做菜/书法/电影/音乐..。
 - 🕹️ Mini UI : https://songwen02.github.io/mini-el/
-- 📚 最近看的书推荐: 《JavaScript高级程序设计》 《Vuejs设计与实现》 《图解HTTP》 《三体》
+- 📚 最近看的书推荐:《Vuejs设计与实现》 《图解HTTP》 《三体》
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
